@@ -24,7 +24,7 @@ def prime_factors(n):
     
     # Beyond 2 and 3, all prime numbers are of the form 6n-1 or 6n+1.
     multOfSix = 6
-    while(multOfSix - 1 < n):
+    while(multOfSix - 1 <= n):
         if(n % (multOfSix - 1) == 0):
             largestPrimeFactor = multOfSix - 1
             factors.append(largestPrimeFactor)
@@ -33,7 +33,7 @@ def prime_factors(n):
                 n = n / largestPrimeFactor
         
         if (n % (multOfSix + 1) == 0):
-            largestPrimeFactor = multOfSix - 1
+            largestPrimeFactor = multOfSix + 1
             factors.append(largestPrimeFactor)
             while(n % largestPrimeFactor == 0):
                 n = n / largestPrimeFactor
