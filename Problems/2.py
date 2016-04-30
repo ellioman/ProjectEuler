@@ -6,17 +6,18 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 '''
 
-prev_num = 1
-cur_num = 2
-num = 2;
-fibo_sum = 2
+def get_even_number_fibonacci_sum(max_num):
+    prev_num = 1
+    cur_num = 2
+    fibo_sum = 2
+
+    while (cur_num < max_num):
+        sum_num = prev_num + cur_num;
+        fibo_sum += sum_num if sum_num % 2 == 0 else 0
+        prev_num = cur_num
+        cur_num = sum_num
+    
+    return fibo_sum
+
 max_num = 4000000
-
-while (cur_num < max_num):
-    sum_num = prev_num + cur_num;
-    fibo_sum += sum_num if sum_num % 2 == 0 else 0
-    prev_num = cur_num
-    cur_num = sum_num
-
-
-print fibo_sum
+print get_even_number_fibonacci_sum(max_num)

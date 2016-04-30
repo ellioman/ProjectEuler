@@ -4,8 +4,14 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Find the sum of all the multiples of 3 or 5 below 1000.
 '''
 
-sum = 0
-for num in range(1000):
-    if (num % 5 == 0 or num % 3 == 0): sum += num
+def get_sum_of_multiples(max_num, multiples):
+    sum = 0
+    for num in range(max_num):
+        if (num % 5 == 0 or num % 3 == 0): sum += num
+        
+    return sum
+    
 
-print sum
+multiples = [3, 5]
+max_num = 1000
+print get_sum_of_multiples(max_num, multiples)
