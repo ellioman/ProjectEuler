@@ -16,4 +16,4 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 9: Special Pythagorean triplet
 * Problem 10: Summation of primes
 * Problem 11: Largest product in a grid
-
+* Problem 12: Highly divisible triangular number
