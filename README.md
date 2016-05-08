@@ -18,3 +18,4 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 11: Largest product in a grid
 * Problem 12: Highly divisible triangular number
 * Problem 13: Large sum
+* Problem 14: Longest Collatz sequence
