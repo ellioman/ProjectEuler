@@ -21,3 +21,4 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 14: Longest Collatz sequence
 
 * Problem 16: Power digit sum
+* Problem 17: Number letter counts
