@@ -19,3 +19,5 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 12: Highly divisible triangular number
 * Problem 13: Large sum
 * Problem 14: Longest Collatz sequence
+
+* Problem 16: Power digit sum
