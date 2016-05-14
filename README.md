@@ -23,3 +23,5 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 16: Power digit sum
 * Problem 17: Number letter counts
 * Problem 18: Maximum path sum I
+
+* Problem 67: Maximum path sum II
