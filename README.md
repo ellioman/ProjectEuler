@@ -26,5 +26,6 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 19: Counting Sundays
 * Problem 20: Factorial digit sum
 * Problem 21: Amicable numbers
+* Problem 22: Names scores
 
 * Problem 67: Maximum path sum II
