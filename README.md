@@ -1,8 +1,8 @@
 # ProjectEuler
-A repository for my Project Euler solutions done in Python as a hobby.
+A repository for my Project Euler solutions done in Python as a hobby project.
 
 ## Attention! ##
-I strongly suggest you try look at and solve the problems yourself before thinking about other solutions like the ones you can find here. 
+**I cannot emphasize enough the importance of you solving the problems in Project Euler yourself before looking at other solutions like the ones stored in this repository!**
 
 ## Problems solved so far ##
 * Problem 1: Multiples of 3 and 5
@@ -19,6 +19,7 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 12: Highly divisible triangular number
 * Problem 13: Large sum
 * Problem 14: Longest Collatz sequence
+* 
 
 * Problem 16: Power digit sum
 * Problem 17: Number letter counts
@@ -27,5 +28,7 @@ I strongly suggest you try look at and solve the problems yourself before thinki
 * Problem 20: Factorial digit sum
 * Problem 21: Amicable numbers
 * Problem 22: Names scores
+* Problem 23: Non-abundant sums
+* 
 
 * Problem 67: Maximum path sum II
