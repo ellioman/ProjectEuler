@@ -29,6 +29,7 @@ A repository for my Project Euler solutions done in Python as a hobby project.
 * Problem 21: Amicable numbers
 * Problem 22: Names scores
 * Problem 23: Non-abundant sums
-* 
+* Problem 24: Lexicographic permutations
+* Problem 25: 1000-digit Fibonacci number
 
 * Problem 67: Maximum path sum II
